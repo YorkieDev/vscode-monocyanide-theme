@@ -23,7 +23,8 @@ This theme is a VS Code port of the [Monocyanide ColorScheme for Sublime Text](h
 
 ## Screenshots
 
-(Add screenshots here when available)
+![image](https://github.com/user-attachments/assets/622adbd1-70bc-44c5-b869-6ed2e0e11674)
+
 
 ## Customization
 
