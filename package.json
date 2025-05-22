@@ -1,0 +1,32 @@
+{
+  "name": "monocyanide-theme",
+  "displayName": "Monocyanide Theme",
+  "description": "Monocyanide Color Scheme for VS Code",
+  "version": "0.1.0",
+  "publisher": "converted-theme",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monocyanide Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monocyanide-black.json"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "github.com/centril",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centril/sublime-monocyanide-colorscheme"
+  }
+}
